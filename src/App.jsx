@@ -12,6 +12,7 @@ const AnyReactComponent = (/* { text } */) => (
 function App() {
 	const defaultProps = {
 		center: {
+			// rangpur park mor
 			lat: 25.716949,
 			lng: 89.26395,
 		},
